@@ -1,0 +1,44 @@
+body{
+    font-family: "poppins" ,serif;
+}
+
+h2 {
+   color: #6070ff;
+   font-family: "poppins" , serif;
+   font-weight: 700;
+   font-style: normal;
+}
+
+.home {
+    background-image: url(./IMAGEN/header.svg);
+    width: 100vw;
+    height: 900vh;
+}
+
+h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #172b4d;
+}
+
+h1:hover {
+    font-size: 40px;
+    cursor: ;
+}
+
+.home p {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #172b4d;
+}
+
+.home h3 {
+    font-weight: 500;
+    font-size: 1rem;
+    color: #6070ff;
+
+    
+}
+
+.fa-brands
